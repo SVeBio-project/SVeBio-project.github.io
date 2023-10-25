@@ -409,7 +409,7 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/heroR.png) fixed no-repeat;
+  background: url(../img/foresDune.jpeg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
