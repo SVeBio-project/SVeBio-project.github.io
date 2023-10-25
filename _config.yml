@@ -1,11 +1,11 @@
-title: Joe's Blog
-email: joelolawanle@kinsta.com
+title: SVeBio
+email: prova@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the official blog of Joe. Here you can find all the latest news and updates.
+  This is the official 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: olawanle_joel
-github_username: olawanlejoel
+twitter_username: TBD
+github_username: TBD
 
 # Build settings
 # theme: minima
